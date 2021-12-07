@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kw_enum", "kw_enum\kw_enum.csproj", "{4799EE65-29C7-4FA3-8834-422A04D12CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4799EE65-29C7-4FA3-8834-422A04D12CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4799EE65-29C7-4FA3-8834-422A04D12CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4799EE65-29C7-4FA3-8834-422A04D12CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4799EE65-29C7-4FA3-8834-422A04D12CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EB53C3-5608-4663-808D-0CD26DFCDE06}
+	EndGlobalSection
+EndGlobal
