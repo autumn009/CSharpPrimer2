@@ -1,0 +1,10 @@
+﻿Console.WriteLine("後置インクリメント演算子の場合");
+int a = 2;
+int b = a++ * 2;
+Console.WriteLine($"a={a}");
+Console.WriteLine($"b={b}");
+Console.WriteLine("前置インクリメント演算子の場合");
+int c = 2;
+int d = ++c * 2;
+Console.WriteLine($"c={c}");
+Console.WriteLine($"d={d}");
