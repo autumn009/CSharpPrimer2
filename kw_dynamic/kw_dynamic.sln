@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kw_dynamic", "kw_dynamic\kw_dynamic.csproj", "{872FB928-2D5C-49BD-B2F0-C20DF887BCBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872FB928-2D5C-49BD-B2F0-C20DF887BCBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872FB928-2D5C-49BD-B2F0-C20DF887BCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872FB928-2D5C-49BD-B2F0-C20DF887BCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872FB928-2D5C-49BD-B2F0-C20DF887BCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {945F052A-E447-4E3A-915B-18CFE8F82C8F}
+	EndGlobalSection
+EndGlobal
