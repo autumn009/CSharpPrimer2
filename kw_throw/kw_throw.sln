@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32120.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kw_throw", "kw_throw\kw_throw.csproj", "{5EC57EDC-2620-47D7-97FC-AF7CD51D500D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EC57EDC-2620-47D7-97FC-AF7CD51D500D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC57EDC-2620-47D7-97FC-AF7CD51D500D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC57EDC-2620-47D7-97FC-AF7CD51D500D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC57EDC-2620-47D7-97FC-AF7CD51D500D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25BC927D-9DEF-481C-A3FF-26480B97E2F0}
+	EndGlobalSection
+EndGlobal
