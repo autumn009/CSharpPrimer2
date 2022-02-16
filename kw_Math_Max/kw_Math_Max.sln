@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kw_Math_Max", "kw_Math_Max\kw_Math_Max.csproj", "{B15F1FA9-1505-4373-BC2A-CE6461A9071D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15F1FA9-1505-4373-BC2A-CE6461A9071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15F1FA9-1505-4373-BC2A-CE6461A9071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15F1FA9-1505-4373-BC2A-CE6461A9071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15F1FA9-1505-4373-BC2A-CE6461A9071D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFA04939-7AA2-4E0A-B45B-9E62BF42143D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+﻿int a = 123, b = 456, c=789;
+Console.WriteLine("MinとMax");
+Console.WriteLine($"Math.Max({a},{b})={Math.Max(a, b)}");
+Console.WriteLine($"Math.Min({a},{b})={Math.Min(a, b)}");
+Console.WriteLine("3値以上の時");
+Console.WriteLine($"Math.Max({a},Math.Max({b},{c}))={Math.Max(a, Math.Max(b, c))}");
+int[] ar = { a, b, c };
+Console.WriteLine($"ar.Max()={ar.Max()}");
+Console.WriteLine($"ar.Min()={ar.Min()}");
+Console.WriteLine($"ar.Average()={ar.Average()}");
